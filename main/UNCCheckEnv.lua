@@ -36,7 +36,7 @@ task.defer(function()
 	local rate = 100
 	local outOf = passes .. " out of " .. (passes + fails)
 
-	print("\n")
+	print("🍍Running TopbarPlus v3.0.2 by ForeverHD")
 
 	print("UNC Summary")
 	print("✅ Tested with a " .. rate .. "% success rate (" .. outOf .. ")")
